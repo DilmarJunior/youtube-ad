@@ -98,7 +98,7 @@ Se tiver dúvidas ou sugestões, entre em contato:
 
 - **Nome:** [Dilmar Mendes Silva Carvalho]
 - **Email:** [dilmarjunior9@gmail.com]
-- **GitHub:** [[https://github.com/seu-usuario](https://github.com/seu-usuario](https://github.com/DilmarJunior))
+- **GitHub:** [https://github.com/DilmarJunior]
 ```
 
 ---
